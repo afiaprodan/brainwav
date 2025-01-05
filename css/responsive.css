@@ -1,0 +1,183 @@
+
+/*
+##DEvice = Most of the smartphones mobiles(galaxi fold)
+##Screen = B/w 279px to 319px
+
+*/
+
+@media(min-width:279px)and(max-width:319px){
+	/*css start*/
+
+
+.header .navbar-toggler{
+	    border: 1px solid #473BF0;
+        border-radius: 3px;
+    
+
+
+}
+.header .navbar-toggler:focus {
+    text-decoration: none;
+    background: #473BF0;
+    outline: 0;
+    box-shadow: 0 0 2 #473BF0;
+}
+
+.header .navbar-toggler:focus .fa{
+	color: #fff;
+}
+
+.header .navbar-toggler .fa{
+        color: #473BF0;
+        font-size: 30px;
+        font-weight: 300;
+	
+}
+
+/*=========================
+
+  =========================*/
+
+
+
+
+
+	/*css end*/
+}
+
+/*
+##DEvice = Most of the smartphones mobiles(galaxi fold)
+##Screen = B/w 320px to 480px
+
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+	/*css start*/
+
+.header .navbar-toggler{
+	    border: 1px solid #473BF0;
+        border-radius: 3px;
+    
+
+
+}
+.header .navbar-toggler:focus {
+    text-decoration: none;
+    background: #473BF0;
+    outline: 0;
+    box-shadow: 0 0 2 #473BF0;
+}
+
+.header .navbar-toggler:focus .fa{
+	color: #fff;
+}
+
+.header .navbar-toggler .fa{
+        color: #473BF0;
+        font-size: 30px;
+        font-weight: 300;
+	
+}
+/*=========================
+   ** header menu code ***
+   =========================*/
+
+
+.header .navbar .navbar-nav .nav-item .nav-link{
+	margin: 0px 0px 0px 0px;
+}
+.header .navbar-nav .nav-item .btn-info{
+	margin: 10px 0px 0px 0px;
+}
+
+
+	/*css end*/
+}
+
+
+
+/*
+##DEvice = Most of the smartphones mobiles(galaxi fold)
+##Screen = B/w 279px to 319px
+
+*/
+
+@media(min-width:481px)and(max-width:767px){
+	/*css start*/
+
+
+.header .navbar-toggler{
+	    border: 1px solid #473BF0;
+        border-radius: 3px;
+    
+
+
+}
+.header .navbar-toggler:focus {
+    text-decoration: none;
+    background: #473BF0;
+    outline: 0;
+    box-shadow: 0 0 2 #473BF0;
+}
+
+.header .navbar-toggler:focus .fa{
+	color: #fff;
+}
+
+.header .navbar-toggler .fa{
+        color: #473BF0;
+        font-size: 30px;
+        font-weight: 300;
+	
+}
+
+
+
+
+
+	/*css end*/
+}
+
+
+/*
+##DEvice = Most of the smartphones mobiles(galaxi fold)
+##Screen = B/w 279px to 319px
+
+*/
+
+@media(min-width:768px)and(max-width:1024px){
+	/*css start*/
+
+
+.header .navbar-toggler{
+	    border: 1px solid #473BF0;
+        border-radius: 3px;
+    
+
+
+}
+.header .navbar-toggler:focus {
+    text-decoration: none;
+    background: #473BF0;
+    outline: 0;
+    box-shadow: 0 0 2 #473BF0;
+}
+
+.header .navbar-toggler:focus .fa{
+	color: #fff;
+}
+
+.header .navbar-toggler .fa{
+        color: #473BF0;
+        font-size: 30px;
+        font-weight: 300;
+	
+}
+
+
+
+
+
+	/*css end*/
+}
+
